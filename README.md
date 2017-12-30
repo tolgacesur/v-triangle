@@ -15,4 +15,11 @@ npm run dev
 npm run build
 ```
 
-A Vue.js project for Edelkrone Challenge.
+## Contact
+
+``` bash
+ttolgacesur@gmail.com
++90 507 229 3584
+
+Tolga Cesur 
+```
