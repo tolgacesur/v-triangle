@@ -44,7 +44,7 @@ export default {
     }
   },
   mounted(){
-    setTimeout(this.Load, 500)
+    setTimeout(this.Load, 3000)
   }
 };
 </script>
