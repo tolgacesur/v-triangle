@@ -28,7 +28,7 @@ Tolga Cesur
 
 ## Repositories
 
-```
-[https://github.com/tolgacesur/v-triangle](https://github.com/tolgacesur/v-triangle ) (Private)
-[https://bitbucket.org/tolgacesur/v-triangle/](https://bitbucket.org/tolgacesur/v-triangle/) (Private)
-```
+
+> [https://github.com/tolgacesur/v-triangle](https://github.com/tolgacesur/v-triangle ) (Private)
+> [https://bitbucket.org/tolgacesur/v-triangle/](https://bitbucket.org/tolgacesur/v-triangle/) (Private)
+
