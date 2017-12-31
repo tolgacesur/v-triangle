@@ -2,6 +2,8 @@
 
 > A Vue.js project for Edelkrone Challenge
 
+> Live Demo : [https://v-triangle.herokuapp.com/](https://v-triangle.herokuapp.com/)
+
 ## Build Setup
 
 ``` bash
@@ -17,7 +19,7 @@ npm run build
 
 ## Contact
 
-``` bash
+```
 ttolgacesur@gmail.com
 +90 507 229 3584
 
@@ -26,7 +28,7 @@ Tolga Cesur
 
 ## Repositories
 
-``` bash
-https://github.com/tolgacesur/v-triangle  (Private)
-https://bitbucket.org/tolgacesur/v-triangle/  (Private)
+```
+[https://github.com/tolgacesur/v-triangle](https://github.com/tolgacesur/v-triangle ) (Private)
+[https://bitbucket.org/tolgacesur/v-triangle/](https://bitbucket.org/tolgacesur/v-triangle/) (Private)
 ```
