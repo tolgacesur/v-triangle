@@ -17,15 +17,6 @@ npm run dev
 npm run build
 ```
 
-## Contact
-
-```
-ttolgacesur@gmail.com
-+90 507 229 3584
-
-Tolga Cesur 
-```
-
 ## Repositories
 
 
